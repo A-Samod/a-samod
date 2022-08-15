@@ -5,10 +5,9 @@
 
 - 🏢 Intern Software Engineer at **OREL IT**
 - 🔭 I’m currently working on [myPROJECTS](https://github.com/A-Samod)
-- 🌱 I’m currently learning everything✌️
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 Learning all about **Open Source**
 - 🥅 2022 Goals: Contribute more to Open Source projects
-<!-- - ⚡ Fun fact: I love to play games -->
+- ⚡ &ensp;Fun fact: I love to Reading ...
 
 ### Languages
 
