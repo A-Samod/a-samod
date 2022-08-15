@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="280" height="250" />
 
 - 🏢 Intern Software Engineer at **OREL IT**
-- 🔭 I’m currently working on [myProjects](https://github.com/A-Samod)
+- 🔭 I’m currently working on [myPROJECTS](https://github.com/A-Samod)
 - 🌱 I’m currently learning everything✌️
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
