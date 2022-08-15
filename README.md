@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Software+Engineer;Mobile-Application+Developer)](https://git.io/typing-svg)
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="280" height="250" />
 
-- 🔭 I’m currently working on [Web Development Projects](https://github.com/A-Samod)
+- 🏢 Intern Software Engineer at **OREL IT**
+- 🔭 I’m currently working on [myProjects](https://github.com/A-Samod)
 - 🌱 I’m currently learning everything✌️
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
