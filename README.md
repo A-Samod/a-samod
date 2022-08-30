@@ -1,13 +1,15 @@
 ## Hi there 🙌 , I am Avishka Samod
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Software+Engineer;Mobile-Application+Developer)](https://git.io/typing-svg)
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="280" height="250" />
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/71955262/187441814-a68f5305-b6cc-4489-bf05-5a263afcd38c.gif"  width="300" height="300" />
+<!-- <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="280" height="280" /> -->
+<!-- ![asamod-se](https://user-images.githubusercontent.com/71955262/187441814-a68f5305-b6cc-4489-bf05-5a263afcd38c.gif) -->
 
 - 🏢 Intern Software Engineer at **OREL IT**
-- 🔭 I’m currently working on [myPROJECTS](https://github.com/A-Samod)
+- 🔭 I’m currently working on [gitRepo](https://github.com/A-Samod)
 - 🌱 Learning all about **Open Source**
 - 🥅 2022 Goals: Contribute more to **Open Source Projects**
-- ⚡ &ensp;Fun fact: I love to *Reading*
+<!-- - ⚡ &ensp;Fun fact: I love to *Reading* -->
 
 ### Languages
 
@@ -26,8 +28,6 @@
 <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white" ></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a>
 
----
-
 ### Frameworks
 
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
@@ -35,8 +35,6 @@
 <a href="#"><img alt="Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
 <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
 <a href="#"><img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" ></a>
-
----
 
 ### Databases
 
@@ -46,15 +44,11 @@
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white" ></a>
 <a href="#"><img alt="FIREBASE" src="https://img.shields.io/badge/Firebase-007ACC?&logo=firebase" ></a>
 
----
-
 ### Hosting
 
 <!-- a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white"></!-->
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" ></a>
-
----
 
 ### IDES
 
@@ -64,21 +58,15 @@
 <a href="#"><img alt="apache netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?&logo=apache%20netbeans%20IDE&logoColor=white"></a>
 <a href="#"><img alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?&logo=visual%20studio&logoColor=white"></a>
 
----
-
 ### Version Controlling
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Git-black?&logo=git" ></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" ></a>
 
----
-
 ### OS
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
-
----
 
 ### Browsers
 
@@ -86,13 +74,9 @@
 <a href="#"><img alt="Microsoft_Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?&logo=Microsoft-edge&logoColor=whit" ></a>
 <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?&logo=Brave&logoColor=white" ></a>
 
----
-
 ### Workspace
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" ></a>
-
----
 
 ### Software and Other Tools
 
