@@ -5,7 +5,7 @@
 <!-- <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="280" height="280" /> -->
 <!-- ![asamod-se](https://user-images.githubusercontent.com/71955262/187441814-a68f5305-b6cc-4489-bf05-5a263afcd38c.gif) -->
 
-- 🏢 Intern Software Engineer at **OREL IT**
+- 🏢 Trainee Software Engineer at **OREL IT**
 - 🔭 I’m currently working on [gitRepo](https://github.com/A-Samod)
 - 🌱 Learning all about **Open Source**
 - 🥅 2022 Goals: Contribute more to **Open Source Projects**
