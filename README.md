@@ -41,7 +41,7 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 
-#### OS
+#### OSs
 
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" ></a>
 <a href="#"><img alt="macos" src="https://img.shields.io/badge/macos-000000?&style=for-the-badge&logo=macos&logoColor=white" ></a>
@@ -52,7 +52,7 @@
 <a href="#"><img alt="Microsoft_Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?&style=for-the-badge&logo=Microsoft-edge&logoColor=whit" ></a>
 <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?&style=for-the-badge&logo=Brave&logoColor=white" ></a>
 
-#### Workspace
+#### Workspaces
 
 <a href="#"><img alt="Intel" src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" ></a>
 <a href="#"><img alt="M2" src="https://img.shields.io/badge/M2-Pro-0071C5?style=for-the-badge&logo=apple&logoColor=white" ></a>
