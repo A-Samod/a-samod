@@ -18,8 +18,8 @@ Hi there 👋!
   - **Framework:**  `Express.js`
   - **Databases:** `MongoDB` • `MySQL` • `SQLITE` • `Oracle` • `Firebase` • `MySQL`
    - **ORMs:** `TypeORM` • `Prisma`
-   - **Search Engine:** *`Elasticsearch`*
-   - _Caching: `Redis`
+   - **Search Engine:** `Elasticsearch`
+   - **Caching:** `Redis`
   - **System Architecture:** `Monolithic` • `Microservices`
   - **Protocol:** `REST` • `Web Socket`
 
