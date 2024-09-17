@@ -10,18 +10,19 @@ Hi there 👋!
 
 <!--  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b> -->
 
-#### What are my skill sets?
-
+####  🛠️ What are my skill sets?
+<!-- 
 - 🗄️ **Backend:**
 
-  - **Programming:** `Node.js` • `JavaScript` • `TypeScript`
+  - **Programming:** `JavaScript` • `TypeScript`
   - **Framework:**  `Express.js`
-  - **Databases:** `MongoDB` • `MySQL` • `SQLITE` • `Oracle` • `Firebase` • `MSSQL`
+  - **Databases:** `MongoDB` • `MySQL` • `SQLITE` • `Oracle` • `Firebase` • `MSSQL` • `Azure Cosmos DB`
    - **ORMs:** `TypeORM` • `Prisma`
    - **Search Engine:** `Elasticsearch`
    - **Caching:** `Redis`
   - **System Architecture:** `Monolithic` • `Microservices`
   - **Protocol:** `REST` • `Web Socket`
+  - **Serverless Compute:** `Azure Function` • `AWS Lambda`
 
 - 🖥 **Frontend:**
 
@@ -38,7 +39,28 @@ Hi there 👋!
   - **Project Management:** `Jira` • `GitHub Projects` • `Azure DevOps`
 
 <!-- ###### Technologies -->
-  <br/>
+## 🗄️ **Backend**
+- **Languages & Frameworks:** `JavaScript` • `TypeScript` • `Express.js`
+- **Data Storage & Management:** `MongoDB` • `MySQL` • `SQLITE` • `Oracle` • `Firebase` • `MSSQL` • `Azure Cosmos DB` • `Elasticsearch` • `Redis`
+- **ORMs:** `TypeORM` • `Prisma`
+- **Architecture:** `Monolithic` • `Microservices`
+- **Protocols:** `REST` • `WebSocket`
+- **Serverless:** `Azure Functions` • `AWS Lambda`
+
+## 🖥 **Frontend**
+- **Languages & Frameworks:** `JavaScript` • `TypeScript` • `React.js`
+- **Styling & Design:** `MUI` • `Tailwind` • `CSS`
+
+## 🎡 **DevOps & Tooling**
+- **Containerization:** `Docker`
+- **Version Control:** `Git` • `GitHub`
+- **CI/CD:** `GitHub Actions`
+- **Project Management:** `Jira` • `GitHub Projects` • `Azure DevOps`
+
+## ☁️ **Cloud Platforms**
+- **Cloud Services:** `Azure` • `AWS`
+
+<br/>
 <a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" ></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" ></a> 
 <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" ></a>
