@@ -16,7 +16,7 @@ Hi there 👋!
 
   - **Programming:** `Node.js` • `JavaScript` • `TypeScript`
   - **Framework:**  `Express.js`
-  - **Databases:** `MongoDB` • `MySQL` • `SQLITE` • `Oracle` • `Firebase` • `MySQL`
+  - **Databases:** `MongoDB` • `MySQL` • `SQLITE` • `Oracle` • `Firebase` • `MSSQL`
    - **ORMs:** `TypeORM` • `Prisma`
    - **Search Engine:** `Elasticsearch`
    - **Caching:** `Redis`
