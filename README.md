@@ -3,7 +3,7 @@ Hi there 👋!
 #### Who I am?
 
 - A Software Engineer based in **[Colombo](https://en.wikipedia.org/wiki/colombo), [Sri Lanka](https://en.wikipedia.org/wiki/srilanka)** with 2+ years of experience.
-- See my portfolio at **[avishka.tech](https://www.avishka.me)**.
+- See my portfolio at **[avishka.me](https://www.avishka.me)**.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer Softwware)](https://git.io/typing-svg) -->
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/71955262/187441814-a68f5305-b6cc-4489-bf05-5a263afcd38c.gif"  width="300" height="300" />
