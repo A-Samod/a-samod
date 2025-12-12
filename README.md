@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/71955262/187441814-a68f5305-b6cc-4489-bf05-5a263afcd38c.gif" width="350" height="300" />
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/71955262/187441814-a68f5305-b6cc-4489-bf05-5a263afcd38c.gif" width="240" height="210" />
 
 ## 🚀 About Me
 
@@ -128,7 +128,9 @@ Testing Types: Unit Testing, Integration Testing
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=A-Samod&theme=algolia&hide_border=true&background=0D1117&stroke=5ce1e6&ring=5ce1e6&fire=ff6b6b&currStreakLabel=5ce1e6)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-Samod&theme=algolia&hide_border=true&background=0D1117&stroke=5ce1e6&ring=5ce1e6&fire=ff6b6b&currStreakLabel=5ce1e6)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=A-Samod&theme=algolia&hide_border=true&background=0D1117&stroke=5ce1e6&ring=5ce1e6&fire=ff6b6b&currStreakLabel=5ce1e6)](https://git.io/streak-stats) -->
 
 <details>
 <summary><b>⚡ Recent Activity Graph</b></summary>
