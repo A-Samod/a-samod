@@ -122,15 +122,13 @@ Testing Types: Unit Testing, Integration Testing
 
 </div>
 
----
+<!-- ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-Samod&theme=algolia&hide_border=true&background=0D1117&stroke=5ce1e6&ring=5ce1e6&fire=ff6b6b&currStreakLabel=5ce1e6)](https://git.io/streak-stats)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=A-Samod&theme=algolia&hide_border=true&background=0D1117&stroke=5ce1e6&ring=5ce1e6&fire=ff6b6b&currStreakLabel=5ce1e6)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=A-Samod&theme=algolia&hide_border=true&background=0D1117&stroke=5ce1e6&ring=5ce1e6&fire=ff6b6b&currStreakLabel=5ce1e6)](https://git.io/streak-stats)
 
 <details>
 <summary><b>⚡ Recent Activity Graph</b></summary>
@@ -140,7 +138,7 @@ Testing Types: Unit Testing, Integration Testing
 
 </details>
 
-</div>
+</div> -->
 
 ---
 
@@ -153,8 +151,8 @@ Testing Types: Unit Testing, Integration Testing
 [![Portfolio](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://www.avishka.me)
 [![Twitter](https://readmecodegen.vercel.app/api/social-icon?name=twitter)](https://twitter.com/@ASamod_)
 [![Facebook](https://readmecodegen.vercel.app/api/social-icon?name=facebook)](https://www.facebook.com/avishka.samod.988)
-
-<br><br>
+---
+<br>
 
 [<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://buymeacoffee.com/asamod)&nbsp;
 
