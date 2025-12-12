@@ -23,13 +23,14 @@
 ### 🎨 Frontend Development  
 ```yaml
 Languages: JavaScript, TypeScript
-Framework: React.js
+Framework: React.js, Next.js
 Styling: Material-UI, Tailwind CSS, CSS3
 ```
 ### 🎯 Backend Development
 ```yaml
 Languages: JavaScript, TypeScript
 Runtime: Node.js, Express.js
+Framework: Next.js (API Routes)
 Databases: MongoDB, MySQL, SQLite, Oracle, MSSQL, Firebase, Azure Cosmos DB
 ORMs: TypeORM, Prisma
 Search: Elasticsearch
@@ -47,54 +48,69 @@ Version Control: Git, GitHub, GitLab
 CI/CD: GitHub Actions
 Project Management: Jira, Azure DevOps, GitHub Projects
 ```
+### 🧪 Testing
+```yaml
+Framework: Jest
+Testing Types: Unit Testing, Integration Testing
+```
 
 <div align="center">
 
-<!-- ### 🛠️ Technologies & Tools -->
-
-<!-- **Languages & Frameworks** -->
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
-<!-- **Databases & Storage** -->
-<!-- <br> -->
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-
-<!-- **Tools & Services** -->
-<!-- <br> -->
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-
-<!-- **Cloud & DevOps** -->
-<!-- <br> -->
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-
-<!-- **Styling & Design** -->
-<!-- <br> -->
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-<!-- **Development Environment** -->
-<!-- <br> -->
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="60" alt="elasticsearch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+</div>
 
 </div>
 
@@ -104,15 +120,15 @@ Project Management: Jira, Azure DevOps, GitHub Projects
 
 <div align="center">
 
-<details>
+<!-- <details>
 <summary><b>🏆 GitHub Achievements & Trophies</b></summary>
 <br>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=A-Samod&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=A-Samod&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><b>📊 Detailed GitHub Stats</b></summary>
 <br>
 
@@ -121,7 +137,7 @@ Project Management: Jira, Azure DevOps, GitHub Projects
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Samod&layout=compact&hide_border=true&theme=algolia&bg_color=0D1117&title_color=5ce1e6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
-</details>
+</details> -->
 
 <details>
 <summary><b>🔥 Contribution Streak</b></summary>
@@ -147,11 +163,11 @@ Project Management: Jira, Azure DevOps, GitHub Projects
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asamod999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avishkasamod)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.avishka.me)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ASamod_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/avishka.samod.988)
+[![Email](https://readmecodegen.vercel.app/api/social-icon?name=gmail)](mailto:asamod999@gmail.com)
+[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](https://linkedin.com/in/avishkasamod)
+[![Portfolio](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://www.avishka.me)
+[![Twitter](https://readmecodegen.vercel.app/api/social-icon?name=twitter)](https://twitter.com/@ASamod_)
+[![Facebook](https://readmecodegen.vercel.app/api/social-icon?name=facebook)](https://www.facebook.com/avishka.samod.988)
 
 </div>
 
