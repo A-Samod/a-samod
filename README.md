@@ -10,23 +10,27 @@
 
 ## 🚀 About Me
 
-- 🏢 **Software Engineer** based in **[Colombo, Sri Lanka](https://en.wikipedia.org/wiki/colombo)** 
+- 🏢 **Software Engineer** based in **[Colombo, Sri Lanka](https://en.wikipedia.org/wiki/colombo)**
 - 💼 **3+ years** of professional experience
 - 🌐 Portfolio: **[avishka.me](https://www.avishka.me)**
 - 🎯 Passionate about **Full-Stack Development** & **Cloud Technologies**
 - 📚 Always exploring new technologies and best practices
-- ⚡ Fun fact: I love building scalable systems and clean code
+<!-- - ⚡ Fun fact: I love building scalable systems and clean code -->
 
 <br clear="right"/>
 
 ## 🛠️ Tech Stack & Skills
-### 🎨 Frontend Development  
+
+### 🎨 Frontend Development
+
 ```yaml
 Languages: JavaScript, TypeScript
 Framework: React.js, Next.js
 Styling: Material-UI, Tailwind CSS, CSS3
 ```
+
 ### 🎯 Backend Development
+
 ```yaml
 Languages: JavaScript, TypeScript
 Runtime: Node.js, Express.js
@@ -40,7 +44,9 @@ Architecture: Monolithic, Microservices
 Protocols: REST, WebSocket
 Serverless: Azure Functions, AWS Lambda
 ```
+
 ### ☁️ DevOps & Cloud
+
 ```yaml
 Cloud Platforms: Microsoft Azure, AWS
 Containerization: Docker
@@ -48,7 +54,9 @@ Version Control: Git, GitHub, GitLab
 CI/CD: GitHub Actions
 Project Management: Jira, Azure DevOps, GitHub Projects
 ```
+
 ### 🧪 Testing
+
 ```yaml
 Framework: Jest
 Testing Types: Unit Testing, Integration Testing
@@ -107,9 +115,9 @@ Testing Types: Unit Testing, Integration Testing
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  /> -->
 </div>
 
 </div>
@@ -120,32 +128,7 @@ Testing Types: Unit Testing, Integration Testing
 
 <div align="center">
 
-<!-- <details>
-<summary><b>🏆 GitHub Achievements & Trophies</b></summary>
-<br>
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=A-Samod&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
-
-</details> -->
-
-<!-- <details>
-<summary><b>📊 Detailed GitHub Stats</b></summary>
-<br>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=A-Samod&show_icons=true&count_private=true&hide_border=true&theme=algolia&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&text_color=c9d1d9" alt="Avishka Samod GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Samod&layout=compact&hide_border=true&theme=algolia&bg_color=0D1117&title_color=5ce1e6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
-
-</details> -->
-
-<details>
-<summary><b>🔥 Contribution Streak</b></summary>
-<br>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=A-Samod&theme=algolia&hide_border=true&background=0D1117&stroke=5ce1e6&ring=5ce1e6&fire=ff6b6b&currStreakLabel=5ce1e6)](https://git.io/streak-stats)
-
-</details>
 
 <details>
 <summary><b>⚡ Recent Activity Graph</b></summary>
@@ -168,6 +151,10 @@ Testing Types: Unit Testing, Integration Testing
 [![Portfolio](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://www.avishka.me)
 [![Twitter](https://readmecodegen.vercel.app/api/social-icon?name=twitter)](https://twitter.com/@ASamod_)
 [![Facebook](https://readmecodegen.vercel.app/api/social-icon?name=facebook)](https://www.facebook.com/avishka.samod.988)
+
+<br><br>
+
+[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://buymeacoffee.com/asamod)&nbsp;
 
 </div>
 
