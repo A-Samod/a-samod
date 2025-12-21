@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Avishka Samod
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+from+Sri+Lanka;Full-Stack+Developer;3%2B+Years+of+Experience;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;4%2B+Years+of+Experience;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🏢 **Software Engineer** based in **[Colombo, Sri Lanka](https://en.wikipedia.org/wiki/colombo)**
-- 💼 **3+ years** of professional experience
+- 💼 **4+ years** of professional experience
 - 🌐 Portfolio: **[avishka.me](https://www.avishka.me)**
 - 🎯 Passionate about **Full-Stack Development** & **Cloud Technologies**
 - 📚 Always exploring new technologies and best practices
@@ -140,18 +140,17 @@ Testing Types: Unit Testing, Integration Testing
 
 </div> -->
 
----
-
-## 🤝 Let's Connect!
+<!-- --- -->
+<br>
 
 <div align="center">
 
-[![Email](https://readmecodegen.vercel.app/api/social-icon?name=gmail)](mailto:asamod999@gmail.com)
-[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](https://linkedin.com/in/avishkasamod)
-[![Portfolio](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://www.avishka.me)
-[![Twitter](https://readmecodegen.vercel.app/api/social-icon?name=twitter)](https://twitter.com/@ASamod_)
-[![Facebook](https://readmecodegen.vercel.app/api/social-icon?name=facebook)](https://www.facebook.com/avishka.samod.988)
----
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&reverseBackground=true&size=48)](https://linkedin.com/in/avishkasamod)&nbsp;&nbsp;&nbsp;[![Email](https://www.readmecodegen.com/api/social-icon?name=gmail&reverseBackground=true&size=48)](mailto:asamod999@gmail.com)&nbsp;&nbsp;&nbsp;[![Portfolio](https://www.readmecodegen.com/api/social-icon?name=wordpress&reverseBackground=true&size=48)](https://www.avishka.me)
+
+<!-- <a href="https://twitter.com/@ASamod_"><img src="https://readmecodegen.vercel.app/api/social-icon?name=twitter" width="40" height="40" alt="Twitter"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/avishka.samod.988"><img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook" width="40" height="40" alt="Facebook"/></a> -->
+
 <br>
 
 [<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://buymeacoffee.com/asamod)&nbsp;
