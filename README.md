@@ -34,7 +34,7 @@ Styling: Material-UI, Tailwind CSS, CSS3
 ```yaml
 Languages: JavaScript, TypeScript
 Runtime: Node.js, Express.js
-Framework: Next.js (API Routes)
+Framework: NestJS
 Databases: MongoDB, MySQL, SQLite, Oracle, MSSQL, Firebase, Azure Cosmos DB
 ORMs: TypeORM, Prisma
 Search: Elasticsearch
@@ -74,6 +74,8 @@ Testing Types: Unit Testing, Integration Testing
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
