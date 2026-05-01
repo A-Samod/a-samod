@@ -12,7 +12,7 @@
 
 - 🏢 **Software Engineer** based in **[Colombo, Sri Lanka](https://en.wikipedia.org/wiki/colombo)**
 - 💼 **4+ years** of professional experience
-- 🌐 Portfolio: **[avishka.me](https://asamod.dev/)**
+- 🌐 Portfolio: **[asamod.dev](https://asamod.dev/)**
 - 🎯 Passionate about **Full-Stack Development** & **Cloud Technologies**
 - 📚 Always exploring new technologies and best practices
 <!-- - ⚡ Fun fact: I love building scalable systems and clean code -->
